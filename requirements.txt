@@ -1,5 +1,9 @@
 numpy
 scipy
+joblib
 pandas
 matplotlib
 scikit-learn
+seaborn
+flask
+nltk==3.4.5                    
