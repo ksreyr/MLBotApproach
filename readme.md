@@ -29,6 +29,7 @@ Python; Flask; scikit-learn;
 ## <div id= "Ressourcess"></div> Ressourcess
 
 - https://data-flair.training/blogs/python-chatbot-project/
+- https://github.com/rsotoc/nlp?fbclid=IwAR3vVJ9ELWGcY-eUbmV2powfbWmwWOWwLeEgbFyRcEfoBUaCUF0slLak0F8
 
 ## <div id= "Licens"></div> Licens
 
