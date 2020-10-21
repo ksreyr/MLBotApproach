@@ -16,6 +16,17 @@ This project pretend to make a first approach of a bot with ML for information r
 
 ## <div id= "Started"></div> Getting Started
 
+### Python Enviroment
+
+- to get in the Enviroment
+  `source PubdevBot/bin/activate `
+
+### installing requirement libraries
+
+`pip install -r requirements.txt`
+
+### Specifications
+
 - Server is developed with Flask.
 - The Models will be .py files.
 - The Software structur images are in the Folder Grafics.
