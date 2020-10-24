@@ -592,4 +592,6 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+.vscode
+
 # End of https://www.toptal.com/developers/gitignore/api/python,flask,jupyternotebooks,macos,linux,windows,latex
