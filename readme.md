@@ -18,12 +18,17 @@ This project pretend to make a first approach of a bot with ML for information r
 
 ### Python Enviroment
 
-- to get in the Enviroment
-  `source PubdevBot/bin/activate `
+`source PubdevBot/bin/activate `
 
 ### installing requirement libraries
 
 `pip install -r requirements.txt`
+
+### run the Server
+
+`python3 server.py`
+
+**_please be sure that you have the port 8080 free, or change it in the server.py file_**
 
 ### Specifications
 
@@ -35,7 +40,7 @@ This project pretend to make a first approach of a bot with ML for information r
 
 ## <div id= "Tecnologies"></div> Tecnologies
 
-Python; Flask; scikit-learn;
+Python; Flask; scikit-learn; NLTK; Joblib
 
 ## <div id= "Ressourcess"></div> Ressourcess
 
