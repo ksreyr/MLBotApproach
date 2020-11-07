@@ -1,0 +1,671 @@
+,subreddit,title
+0,datascience,Weekly Entering & Transitioning Thread | 01 Nov 2020 - 08 Nov 2020
+1,datascience,How Can I Find Out if I would Enjoy A Data Science Career?
+2,datascience,Rant: Don't put bachelors as a minimum if you only hire masters.
+3,datascience,ETL Pipeline for Different Sources - Advice Appreciated!
+4,datascience,Run ML model on live data to build interactive reports
+5,datascience,Automate the Boring Stuff -- Useful for Data Science?
+6,datascience,"Might be a stupid question, but why are most models deployed on a REST API? Are there other common ways that a model is deployed that doesn't require a REST API?"
+7,datascience,What's your go to stack for collecting data?
+8,datascience,Medical data usage
+9,datascience,Stumpy: unleashing the power of the matrix profile for time series analysis
+10,datascience,Potential career path change to data science/analytics. Advice?
+11,datascience,Sick of media's coverage of POTUS election results - made simple spreadsheet to compute votes needed to win 'undeclared' states
+12,datascience,Shortcomings of Facebook Prophet tool for analyzing Time Series
+13,datascience,"Rocksdbdict, a wrapper for rocksdb in the style of sqlitedict"
+14,datascience,Where are the best places to get answers to technical questions on data science?
+15,datascience,What is the difference between training error and in-sample error ? (Elements of Statistical Learning)
+16,datascience,"My title says data scientist, but my work says data analyst. Anyone else in the same shoe?"
+17,datascience,Asking resource: data science for logistics
+18,datascience,Thinking on leaving a 175k/year to do a bootcamp and get in Data Science (I've a PhD if that helps)...is that crazy?
+19,datascience,What’s the difference between “applied data science” and “regular” DS?
+20,datascience,Looking for Suggestion: Best Way to Visualize/Conceptualize Data Set
+21,datascience,Visualizing large network graphs in R
+22,datascience,"As a data scientist, do you use any GUI for machine learning that does not require coding?"
+23,datascience,Database and SQL introduction blog for Data science
+24,datascience,Teaching Data Science in Schools
+25,datascience,Data Science and Post Conflict Resolution
+26,datascience,I'm a bad data scientist...
+27,datascience,Common applications of graph network theory
+28,datascience,Survival models with high censoring rates
+29,datascience,random forest being used in survival analysis
+30,datascience,Boolean Algebra with Julia
+31,datascience,Questions on random forest
+32,datascience,Can anyone tell me if I can replace datetimeobject “2020-01-01” to “Mon-Jan-2020” something like that...
+33,datascience,Any advanced resource to learn Spark in-depth?
+34,datascience,Model Selection
+35,datascience,Mechanical Engineer to MSc in Data Science
+36,datascience,Looking for ideas for a University project in Data science
+37,datascience,I'm really tired..
+38,datascience,How would you describe your job to normal people?
+39,datascience,So I have this problem I have been studying data science on my own but there some gaps in my concepts which makes me wanna learn again it’s like a cycle I keep forgetting the ml concepts tbh how to over come this is feel
+40,datascience,"A whole year from now to start applying to DS jobs. I'm in a good situation. I can choose what skills to improve, and I'm sure your advice will be super helpful."
+41,datascience,Election data and dashboards
+42,datascience,Is it dumb of me to change majors to data science because knowing the truth is a big thing for me?
+43,datascience,Largest Data Centre in East Africa to be Powered by Solar Energy
+44,datascience,Implementing A Linked List in Rust
+45,datascience,Your Opinions on Personal (eventually Resume) Projects
+46,datascience,Basic Arithmetic in Julia
+47,datascience,How normative is this case study of DS interviews?
+48,datascience,Looking for a successful implementation of ML or AI based multivariate time series forecast.
+49,datascience,Top 8 Statistics Interview Questions for a Data Science Interview
+50,datascience,Today I learned about the magical number 30 and the cult following of CLT that praises it
+51,datascience,Can i do a PhD in machine learning after doing a MSc in data science?
+52,datascience,Best python packages for marketing / customer / transaction datasets? I have added some of my own suggestions. Looking for more.
+53,datascience,Dashboards on websites
+54,datascience,"Want to be a data analyst (Austin, TX)"
+55,datascience,Statistics Major
+56,datascience,Gender prediction packages
+57,datascience,Looking for some ideas how to tackle cross source systems matching of clients
+58,datascience,Actuary to Data scientist.
+59,datascience,I just started studying data science and I’m so excited. Also I’m new into coding I hope I won’t struggle a lot ...
+60,datascience,Will all these antitrust trials decrease the demand of data scientists by reducing the amount of data collected?
+61,datascience,DuckDB – The little OLAP database that could. TPC-DS Benchmark Results and First Impressions
+62,datascience,[Pandas] How to filter out the DataFrame rows that have values that occur less than X times in a column?
+63,datascience,Send help! I maybe be dying
+64,datascience,Data science career path?
+65,datascience,After spending more than a year as a data scientist I found these 4 hard truths data science blogs don't teach you about. I hope sharing my journey helps you in some way.
+66,datascience,Meaning of the math behind Principal Component Analysis
+67,datascience,Is DS just becoming a dead end?
+68,datascience,I have an interview on Friday for a DS position. Best way to prepare?
+69,datascience,Looking for a tool to analyze a wide dataset to classify entries
+70,datascience,Why do you love / hate about the Data Science field ? And how it compare to Software Engineering. I'm very appreciated about your sharing. Thank you very much.
+71,datascience,"Seriously, how am I expected to grow in a profession where everyone discourages me from building anything non-trivial"
+72,datascience,Intel Snaps Up Cnvrg.io
+73,datascience,Is Julia viable for DS now?
+74,datascience,What’s data science consulting like?
+75,datascience,Runtime analysis in data science interviews
+76,datascience,Where to start
+77,datascience,Is it possible to transition into a “traditional” data scientist role from data analyst without a MS ?
+78,datascience,We curated 100+ CS internships that you can apply to individually or mass apply to 📷
+79,datascience,What do you guys think about the job outlook for ML & Data Science will be in the next 10 years?
+80,datascience,November Challenge | SDS Club
+81,datascience,"Does anyone have any experience dealing with hovertext for the ""visNetwork"" package in R?"
+82,datascience,Is putting data camp certificates on linkedin obnoxious?
+83,datascience,Data Science Bootcamp or nah?
+84,datascience,Accounting background wanna switch to Data Science but no knowledge in high level maths and programming skills
+85,datascience,Learning Data science as a biologist
+86,datascience,"As an Data scientist, imposter syndrome has taken over my efficiency."
+87,datascience,new to data science
+88,datascience,Certifications
+89,datascience,Best software for database creation from multiple spreadsheets?
+90,datascience,How to move my interactive graphs to a PowerPoint presentation?
+91,datascience,Confused about where databases live for a production app
+92,datascience,Election data feeds?
+93,datascience,"How do you feel data science has disrupted, or will disrupt management consulting industry?"
+94,datascience,Julia program in a file
+95,datascience,Any good tutorial on Git and GitHub for a newbie?
+96,datascience,"Emotion Analytics Market Growing at a CAGR 15.8% | Key Player Affectiva, Beyond Verbal, iMotions, Kairos, Noldus Information Technology"
+97,datascience,Not another AWS ad
+98,datascience,anyone know how to convert this to a pdf?
+99,datascience,Is it acceptable to do some cleaning procedures in excel?
+100,datascience,Potential of Artificial Intelligence (AI) in Military
+101,datascience,Udacity Nabs $75M Debt Round
+102,datascience,SQL Reporting Services VS Power BI /Tableau ...
+103,datascience,How People Analytics Drives Recruiting of Essential Workers (Live Webcast)
+104,datascience,What kind of job should I be going for?
+105,datascience,My experience with DataQuest
+106,datascience,"What does SARIMAX(1,0,[1],7) means, isn’t there normally a model order and a seasonal order, does this mean that the model order is (0,0,0) ?"
+107,datascience,How do I approach this document extraction problem?
+108,datascience,Thoughts on a Masters in Applied Artificial Intelligence from the University of San Diego
+109,datascience,What certifications/degrees are there for beginners?
+110,datascience,Weird vibes
+111,datascience,As a recent grad it seems like it’s impossible to get even a jr data science job
+112,datascience,I'm deploying my first data science app...need help determining my cloud stack
+113,datascience,Productionizing Jupyter Notebooks
+114,datascience,What are some good projects to have on a Resume for undergrad?
+115,datascience,Data Science Career Ladder - The First few Rungs
+116,datascience,How to create trade areas around retail store locations?
+117,datascience,I’m deploying my first data science app...is learning all this par for the course?
+118,datascience,Very poor performance does not align with marketing · Issue #1664 · tiangolo/fastapi
+119,datascience,Best Practices: Custom Scripts and Imports (Python)
+120,datascience,Bivariate analysis| How to analyze data using spss (part-10)
+121,datascience,How do I start growing my Data Science network?
+122,datascience,Anomaly Detection
+123,datascience,"I'm a Professional with 3 years of experience in DS, should I still do a Masters?"
+124,datascience,Loan Shark data scientist...need advice
+125,datascience,"Python tools for sharing a dashboard with a boss and few key stakeholders, that's automatically updated and refreshed with latest data."
+126,datascience,Confusion about the endless Jetbrains IDEs
+127,datascience,How do I learn more about data cleaning \ wrangling?
+128,datascience,Which increases more productivity and is much efficient?? Jupyter Notebook or VS Code Jupyter Notebook extension or Google Collab??
+129,datascience,Microsoft overhauls Excel with live custom data types - The Verge
+130,datascience,How to put models ‘in production’?
+131,datascience,"is there a way to ""unclutter"" a ""crowded"" network graph?"
+132,datascience,Treating Every Modeling Problem as a End-to-End Neural Net
+133,datascience,Social Science PhD Candidate on the Brink of Quiting. What are my DS Job Prospects like? How can I improve them?
+134,datascience,Learning curve of R after coming from python?
+135,datascience,Is the job searching process really that bad?
+136,datascience,What is the equivalent of working at McDonald's in this field?
+137,datascience,Does anyone have any experience using 'ggforce' or 'networkd3' in R to create Sankey Diagrams?
+138,datascience,Might be interesting: Number of applicants for several data science job postings in Linkedin
+139,datascience,"Stop giving extra tests, filling out lengthy applications, just to throw 80% of it in the trash when the optimal candidate arises [RANT]"
+140,datascience,Testing Jupyter Notebook Code
+141,datascience,What to look for in a mentor?
+142,datascience,Doubt regarding Click Through Rate calculation (CTR)
+143,datascience,Which sectors in the future years will need most of data science?
+144,datascience,Why aren't time series forecasting methods as popular as traditional ML methods?
+145,datascience,What Probabilistic Programming language do you use (most if multiple)?
+146,datascience,PSA for anyone who uses Notebooks and wants to transition to Pycharm/VSCode.
+147,datascience,I don't know if I can keep it up with my masters program.
+148,datascience,"Sports scientist/data scientist education must knows, resources and skills."
+149,datascience,Thoughts on Amazon quicksight?
+150,datascience,How is B2B Data Science different from B2C?
+151,datascience,"What is the best python visualization package (in your opinion), and where can I find more information about machine learning algorithms (why sensitivity/specificity) change?"
+152,datascience,Mathematicians now data scientists...
+153,datascience,Top Online Data Science/Analytics Masters Programs w/ Rolling Admission
+154,datascience,Canadian Masters of Data Science Programs
+155,datascience,Problems with personal projects
+156,datascience,Data Science with Python book recommendations
+157,datascience,Project ideas that combines data science with Business Intelligence or Business Analytics for my thesis
+158,datascience,Why isn't data engineering a more popular field?
+159,datascience,SQL vs Python data cleaning workflow?
+160,datascience,Propensity Score Matching + Basic Statistical Inference?
+161,datascience,Question: want to visualize how the number of polling places in the US has changed over the years
+162,datascience,Mean is not 0 even after standardization
+163,datascience,histplot (seaborn) not working in kaggle
+164,datascience,Is Keras the way to go?
+165,datascience,Looking for volunteers for the Data Natives Unlimited Conference from 17-19th of November!
+166,datascience,How do you decide where to start to solve a problem?
+167,datascience,Bridge Between IT and End Users
+168,datascience,Probability practice problems
+169,datascience,advice for senior in college
+170,datascience,RSS feed for AI/ML Research?
+171,datascience,20 Latest Data Science Jobs For Freshers
+172,datascience,Looking for tips and tricks for working with row-stored data vs. column-store data
+173,datascience,When was the moment you knew you wanted to be a data scientist?
+174,datascience,Data lakes
+175,datascience,Using a GAN for feature selection on data that isn't
+176,datascience,Is the computer science minor worth it?
+177,datascience,How do you develop an array programming mindset?
+178,datascience,What methods for detecting misleading statistical aggregates?
+179,datascience,Noob question for rapidminer
+180,datascience,Looking for a suitable software for data visualization
+181,datascience,I got the chance to interview a Machine Learning Consultant :)
+182,datascience,Any good tutorials out there on creating dashboards from jupyter notebooks
+183,datascience,I'm a Senior Data Scientist at Disney and I'm hosting another free Data Science Q&A session this Thursday @ 5:30 PM PST
+184,datascience,AI to fix the education crisis
+185,datascience,DOE/Experimental Design: A couple questions
+186,datascience,Heat map
+187,datascience,Determining work time frames for mangers
+188,datascience,Data Science Resume Review
+189,datascience,Anyone know anything about the Data Science undergrad program at Bryant?
+190,datascience,How to become a Data Scientist: a step-by-step guide
+191,datascience,"The state of open source data science (jupyter). Update with package counts (will julia catch up with R at some point?), new sections: Workflow Tools, Language Bindings and more. Pointers to tools people are using are welcome!"
+192,datascience,"The Future of PyMC3, or: Theano is Dead, Long Live Theano | by PyMC Developers"
+193,datascience,Installing Julia in GNU/Linux and using it in Bash
+194,datascience,Can someone please comment on my model results?
+195,datascience,How to master your time between Data Science jobs with the best of these new approaches
+196,datascience,Reviews & Suggestions for my project
+197,datascience,"""Building products powered by data and ML"" webinar with Amber Foucault this Wed"
+198,datascience,How Automation Is Improving the Role of Data Scientists
+199,datascience,Best Books
+200,datascience,What Languages to Learn for an aspiring Data Scientist?
+201,datascience,Best resource to learn Excel for data science?
+202,datascience,City Recommendation Tool
+203,datascience,Landing an Internship as a Finance Major
+204,datascience,Help me with 13F data sci: assess stock sell date
+205,datascience,The 5 MUST KNOW methods to improve your communication skills for Data Science
+206,datascience,I'm testing a resource for people new to Python and interested in Natural Language Processing
+207,datascience,Data Analyst questions for a noob like me
+208,datascience,One month of free access to Google Cloud Professional Certificates on Coursera
+209,datascience,Are continuing education (post-grad) data science programs seen as a good start to the data science world?
+210,datascience,How do you deal with long-running lines of code?
+211,datascience,Do organisations hire fresher for data science jobs?? What are the prerequisite? Or can anyone start learning about Data Science?? I do not have any coding knowledge or a computer science degree.
+212,datascience,where to draw the line in discussing possibly confidential info in an interview
+213,datascience,How does SARIMA inverse the difference for out of sample forecasts?
+214,datascience,Recruiter asks me for my thoughts on job description. How do I reply?
+215,datascience,Important job function but feeling pretty useless in my role
+216,datascience,Data Science Summer Internship Pay
+217,datascience,How many hours of WORK do you do at your job?
+218,datascience,"For those in practice, what project / product / workflow management approaches, practices, and methodologies are you using?"
+219,datascience,"What are good ""milestones"" when developing a model? Accuracy? Simply acquiring the data?"
+220,datascience,Weekly Entering & Transitioning Thread | 25 Oct 2020 - 01 Nov 2020
+221,datascience,Pricing optimisation for perishable/low-shelf-life products
+222,datascience,What type of skills can transform a good data scientist into a great data scientist
+223,datascience,"""Hyperparameter Optimisation"" is the ultimate cheat code to buy your ML project more time."
+224,datascience,"Those of you in the entertainment/film/television industry, do you find your work rewarding or does it get dull after a while?"
+225,datascience,Has anyone here used Palanir's products?
+226,datascience,How can I become a data science / machine learning consultant ASAP?
+227,datascience,Simplest Enterprise-level ETL?
+228,datascience,"Do people have luck using ""modern"" resume templates?"
+229,datascience,Just got promoted and I'm freaking out. Can anyone give me some pieces of wisdom?
+230,datascience,Data Science job requirements these days are so ridiculous that even reading them boils my blood.
+231,datascience,There is too much skepticism and disillusionment in data science and machine learning in the community
+232,datascience,Coding with no oversight?
+233,datascience,"""Slow to hire, but quick to fire"" - Am I shooting myself in the foot with this position?"
+234,datascience,Can we put an end to Gallup already?
+235,datascience,Data science projects for climate change?
+236,datascience,Career Advice
+237,datascience,Full Time to Contract?
+238,datascience,How to make a web app/website to demonstrate a ML model?
+239,datascience,DS professional looking for guidance to build out NLP skillset
+240,datascience,"Applied for Jr Data Analyst, received an offer for Program Coordinator"
+241,datascience,Working with imbalanced data in Deep Learning
+242,datascience,"Recommendation for interactive, animated plots"
+243,datascience,"How to Find Jobs Centered Around Data Exploration and Creativity, and Less About Software Development?"
+244,datascience,What math is most used in this field?
+245,datascience,Best Certificates for Data Science
+246,datascience,Does anyone here use orange 3?
+247,datascience,How to showcase SQL skill and proficiency on a project
+248,datascience,Building a Windows DS workstation - advice?
+249,datascience,Struggling to find research papers in my specific area
+250,datascience,Categorical Data
+251,datascience,Extracting keywords from images and ranking based on the frequency
+252,datascience,Most Common SQL Database for Data Science?
+253,datascience,"Career Advice, Should I take this opportunity?"
+254,datascience,How do I know when to z-score my variables when doing cross validation?
+255,datascience,Can you append XML?
+256,datascience,"After three years I done it, this is what it took."
+257,datascience,Difference between a data scientist and a data analyst?
+258,datascience,What can I replace conda with when creating an environment from .yaml files?
+259,datascience,Where do I practice ML and DS for interviews?
+260,datascience,What are the methods for finding the optimal reconciliation between hierarchical forecasts?
+261,datascience,Why are there no actual practical content about how to use data science tools to gain insights?
+262,datascience,Is there any elegant way to use tensorflow >= 2.0 without using pip?
+263,datascience,How to find minimum significant difference
+264,datascience,We want to create a data platform perfect for small data teams and data scientists
+265,datascience,how to interpret k-means results?
+266,datascience,Salary over time might not be enough?
+267,datascience,How much data to utilize for inferential statistics?
+268,datascience,What is the Knowledge Graph?
+269,datascience,Bioinformatics student applying for DS jobs- looking for advice
+270,datascience,Career dilemma
+271,datascience,What are some cool things to do with pie charts?
+272,datascience,Anyone understand entropy and information gain?
+273,datascience,Mutual Information for Mixed Data Sets
+274,datascience,General questions on statistical modelling
+275,datascience,Something to Consider: Open Offices
+276,datascience,Entry-Level Salaries w/ Masters Degree?
+277,datascience,Who said notebooks are not for production? 📒
+278,datascience,Metis Bootcamp Questions
+279,datascience,Imposter Syndrome: It's something that is prevalent amongst most entry-level DS and yet it's rarely discussed amongst peers/orgs (at least in my case)
+280,datascience,600 Free R Programming Tutorials on Statistics Globe
+281,datascience,Classification with some time dependent predictors
+282,datascience,"""Bad person"" is a strong term, but working at companies like Facebook brings with it moral responsibility, we should think about the consequences of our work"
+283,datascience,NN with variable sized inputs and variable sized outputs
+284,datascience,"Managing up + getting your manager to be your advocate with Jessica Hastings, VP Analytics @ Betterment"
+285,datascience,How do you apply test harnesses for Data Science/ML at your company?
+286,datascience,How Are You All Deploying Your Tensorflow Models To AWS?
+287,datascience,[100% OFF] Complete Linear Regression Analysis in Python
+288,datascience,[Event data at scale](https://medium.com/hacking-talent/event-data-at-scale-21f9117cb335)
+289,datascience,Having trouble applying skills to real world examples
+290,datascience,Is the name brand worth it?
+291,datascience,"What do you do with models after you built then for a Kaggle competition, but didn't win?"
+292,datascience,Is the # comment only in MySQL but not in other SQLs?
+293,datascience,A Beginner's Guide to Decision Trees.
+294,datascience,Why is business/domain knowledge important in data science?
+295,datascience,What instaces matter for a ML model?
+296,datascience,Is it still industry-standard to capitalize SQL queries?
+297,datascience,Advanced degree holders - should I stick it out?
+298,datascience,Datacamp: Data Analyst with Python vs. Data Scientist with Python tracks
+299,datascience,Weekly Entering & Transitioning Thread | 18 Oct 2020 - 25 Oct 2020
+300,datascience,How does working internationally work for data science?
+301,datascience,Is it possible to put an Mplus Growth-Mixture Model in Production to generate predictions?
+302,datascience,IMPORTANT PLEASE ANSWER
+303,datascience,Online Masters in DS in Canada?
+304,datascience,Dear hiring managers: Are Azure data scientist / AI engineer certificates make a CV much stronger?
+305,datascience,Which technical skills should I prioritize learning and gaining experience with?
+306,datascience,When can you expect a generative model to preform better than a discriminative and/or non parametric model
+307,datascience,The future of remote data science work
+308,datascience,ARM Macs for Data Science?
+309,datascience,"A simple group-by-and-aggregate speed comparison including Clojure, Python, R and Julia"
+310,datascience,What are your reactions to Guardian today that UK could become a ‘data haven’ (like tax haven) after Brexit
+311,datascience,"Presenting your DS work to ""Business people"""
+312,datascience,Hear firsthand from today’s Data Visualisation & Analytics leaders on the Customer Insight Leader podcast (episode 15 = this great conversation with Jon Schwabish at the Urban Institute in Washington & host of PolicyViz podcast)
+313,datascience,If you needed yet another reason to convince you that Excel is terrible for data science...
+314,datascience,What are good and bad examples of analytics being used in the NBA?
+315,datascience,Forecasting monthly sales to customers that aren't customers yet?
+316,datascience,R or Python
+317,datascience,Best software IDE for learning/using pythong for data science.
+318,datascience,Data science position using SAS
+319,datascience,Is codecademy a good website to learn data science skills?
+320,datascience,Physics or Chemistry for Data Science?
+321,datascience,anybody have experience with BA (business analytics) or BI (business intelligence)?
+322,datascience,Data pre processing transformation
+323,datascience,General approach for fitting a pde to data
+324,datascience,I curated all the remote job openings from Hacker News who is hiring - October
+325,datascience,Time series vs longitudinal analysis vs survival analysis
+326,datascience,working through my first dataset without a scripted tutorial - could use some help
+327,datascience,Work experience before a master's or just start immediately after Bachelor's degree
+328,datascience,Data science skills for social entrepreneurship?
+329,datascience,"Is a DS masters worth it, while already working as a data scientist?"
+330,datascience,How can I prepare for Facebook's data science internship interview?
+331,datascience,Tasked with figuring out a difficult business strategy question
+332,datascience,Population data in a Radius
+333,datascience,Do Data Engineers and Data Scientists have on-call duty like SDE and SRE ?
+334,datascience,"I'm in a data science team, but do not feel like a data scientist. Am I over sensationalizing what a data scientist actually does?"
+335,datascience,Trees that determine solar radiation
+336,datascience,Any interesting data science/deep learning/machine learning journals?
+337,datascience,Looking for advice on data integrations
+338,datascience,Tracking and storing route travel data in a way that's inter-operable between different platforms.
+339,datascience,Datalore by JetBrains: Online Jupyter Notebooks Editor With PyCharm’s Code Insight – PyCharm Blog
+340,datascience,SparkNLP Healthcare 2.6.2 is Now Released with the First End-to-End Pretrained Models
+341,datascience,Coursera Google IT Support Professional Certificate Price Significantly dropped for Indian learners
+342,datascience,How do you price your time as an Event Speaker?
+343,datascience,How do I start transitioning to Data Science?
+344,datascience,Future Languages for DS
+345,datascience,What should I learn as a future Data Scientist?
+346,datascience,How do you judge a datascience degree
+347,datascience,Where to start?
+348,datascience,Deepnote: The Google Sheets of Jupyter notebooks
+349,datascience,Data Engineering
+350,datascience,How to build a GPU cluster for AI
+351,datascience,Looking for the best way to scrape info off of a CMS to build reports
+352,datascience,"Is anyone on this subreddit working as a data scientist for a contract position (""on W2"" as they call it)? How did you land the role (recruiter, company website, friend's referral)? And do you really need all of those qualifications that they listed?"
+353,datascience,"[X-Post] Based on feedback during our Q&A Sessions, I've created a LinkedIn group for aspiring Data Scientists/MLEs that you might find useful. I'm hoping it'll act as a tool to gain useful tips and also broaden your networks (The reason I chose this over discord)"
+354,datascience,Does anyone use PySpark ML's Pipeline classes in production?
+355,datascience,Win an Amazon Gift Card by contributing to an open-source dataset!
+356,datascience,Need Help in Choosing the Right School for Masters (EU)
+357,datascience,How NOT to write pandas code?
+358,datascience,Advice for beginner wanting to start on his first project
+359,datascience,Help! Need a finite learning path
+360,datascience,Pathways to transition to Data Science?
+361,datascience,Do Junior Data Scientist/Analyst remote jobs exist?
+362,datascience,What are the pros and cons of data science consultant positions vs data scientist positions?
+363,datascience,More Questions About Trees
+364,datascience,"Understanding Uniform vs Normal Distribution : Explained with equations, graphs and code."
+365,datascience,How much will DataCamp help me achieve a specific goal I have?
+366,datascience,Do any of you work for the military/federal government? What's data science like as a GS employee?
+367,datascience,[2001.10641] The Rockerverse: Packages and Applications for Containerization with R
+368,datascience,Requirements to get into data science
+369,datascience,References on the emergence/history of data science?
+370,datascience,Are there any data science projects that are focused on analyzing works of fiction?
+371,datascience,What does the confusion matrix tell us about the quality of the predictions?
+372,datascience,Thoughts on using Fourier transform vs. other techniques to model seasonality?
+373,datascience,"Clarifications on ""Recursive feature elimination"""
+374,datascience,Do data scientists generally work in an open office setting?
+375,datascience,Predicting Soccer Outcomes
+376,datascience,My first real-world M.L. project - guidance appreciated
+377,datascience,Matplotlib Graph ticks not lining up
+378,datascience,Data Cleaning and the ML Pipeline?
+379,datascience,Will data science be automated?
+380,datascience,The Most Interesting Ideas From the Future Data Conference
+381,datascience,Data Science / Machine Learning Courses Advice
+382,datascience,What advice would you give someone who is just starting their first ML project at work?
+383,datascience,"Is a ""Data Science"" or ""Data Analytics"" Bootcamp a Good Choice? If so which would you recommend?"
+384,datascience,What-The-Social-Dilemma-Gets-Wrong
+385,datascience,Library for Contextual Multi-arm Bandit on vector of hyper parameters? (like Uber XP)
+386,datascience,Looking for mentor
+387,datascience,"Facebook lays into Netflix documentary 'The Social Dilemma,' saying the doc 'buries the substance in sensationalism'"
+388,datascience,[ASK] Piechart Digitizer
+389,datascience,Is 'The Social Dilemma' trying to hurt our industry?
+390,datascience,having more impact at work
+391,datascience,Question on a possible project
+392,datascience,Thoughts on The Social Dilemma?
+393,datascience,Percentage of non traditional path Data Scientists in your team
+394,datascience,Using ggplot in Python: Visualizing Data With plotnine – Real Python
+395,datascience,Anyone know a Big Five test that lets you download CSV file of your results?
+396,datascience,On a team with no technical expertise--need advice on getting out/pivoting teams
+397,datascience,Permutation importance (sklearn) for highly correlated data brings up multiple features from the same cluster
+398,datascience,OK ... this looks pretty slick - W&B Machine Learning Visualization IDE
+399,datascience,most common ML algorithms in industry?
+400,datascience,Need a book suggestion for descriptive research
+401,datascience,Resume nitpicking...
+402,datascience,"This week’s open source newsletter just went out! It’s got some seriously interesting projects in it, like a highly scalable datastore written by an Uber engineer and a list of the top 10 most useful Jupyter notebooks."
+403,datascience,Deploying a Dash Web App – Azure or Heroku?
+404,datascience,"Are these specs reasonable for a job that will consist mostly of data wrangling, cleaning, visualization and analysis"
+405,datascience,Will Data Science become obsolete in the near future?
+406,datascience,Weekly Entering & Transitioning Thread | 11 Oct 2020 - 18 Oct 2020
+407,datascience,How often do you make dashboards just for you?
+408,datascience,"Please help me identify if I have a time series modeling problem (ARIMA, LSTM etc.) Or not"
+409,datascience,An Estimation of a data analytics software from scratch?
+410,datascience,Can you recommend some good online courses on how to use the TI-84 for statistical computations?
+411,datascience,"How not to lose 16,000 Covid-19 test results: a data scientist’s view"
+412,datascience,Recommendations on Youtube channels for data science interview prep?
+413,datascience,Where do you see the data science field going in the next 10 years?
+414,datascience,"TIL that journalist Dan Rather, became famous after his reporting saved thousands of lives during Hurricane Carla in 1961. Rather created the first radar weather report by overlaying a transparent map over a radar image of Hurricane Carla. This then helped initiate the evacuation of 350,000 people."
+415,datascience,Does Alteryx has future...?
+416,datascience,Best performance on Scikit-learn’s load_digits dataset
+417,datascience,Random Forest classifier
+418,datascience,Need help with Python code for accessing values in the next row in a for loop using iterrows()
+419,datascience,Use cases/purpose of an autoencoder?
+420,datascience,Top 10 Text Analytics Companies to Watch in 2020
+421,datascience,Project to analyze papers from a conference
+422,datascience,Late starter feeling a bit winded
+423,datascience,"Where's a good place to discuss data technology stacks, and how to get good performance for various types of modeling and reporting?"
+424,datascience,"Failed 3x FAANG onsites b/c lack of production experience, how am I supposed to get this?"
+425,datascience,[Research] A common platform to learn and practice DS Projects?
+426,datascience,"Does anyone know good books or other resources that would be useful in trying to predict when, as well as why, shortages happen within a manufacturing company say for things like nuts/bolts?"
+427,datascience,Is my career plan moving forward optimal/realisitc?
+428,datascience,Beginner question
+429,datascience,What prior experience is desired for a data science internship?
+430,datascience,Best practices for handling large datasets
+431,datascience,Academic to industry course discussion
+432,datascience,I love Coursera and online learning
+433,datascience,why don't we put skill level on resumes?
+434,datascience,Learning Data Scrapping Worth the Effort?
+435,datascience,Which data-camp courses are worth it?
+436,datascience,Future private sector career prospects from government data scientist experience?
+437,datascience,"Webinar on transitioning from a PhD in physics, chem, etc. to data science -- Oct 13"
+438,datascience,Dimentionality reduction for Bag of Words NLP model
+439,datascience,Resources for statistically assessing quality of data
+440,datascience,How to challenge yourself while working at a company in DS that isn’t really that technical
+441,datascience,20 Search Engines other than Google that provide Quality Performance
+442,datascience,Anyone working on network analysis related topics?
+443,datascience,"Working On Blog Posts to Build Slack, StackOverflow, etc Dashboards"
+444,datascience,Actuarial Science to Data Science early career
+445,datascience,How would you go about a Blue Zones follow-up study?
+446,datascience,Excel is Gold
+447,datascience,Data science workflow
+448,datascience,Consulting rates on East Coast
+449,datascience,SAS Viya
+450,datascience,I am frustrated I didnt learn anything during my internship
+451,datascience,Advice on OS
+452,datascience,Haiti had its first data science bootcamp
+453,datascience,What are telltale signs of a toxic team/environment for a new analyst?
+454,datascience,Is SAS really the best tool for SQL joining local tables with database tables?
+455,datascience,Detecting Mumble Rap Using Data Science
+456,datascience,pandas seems so clunky after dplyr
+457,datascience,Product recommendations to replace cronjob of ETL scripts
+458,datascience,Are SVMs still used in Production?
+459,datascience,Is anyone else prioritizing location over career?
+460,datascience,Culture of NN as Solution
+461,datascience,"Why is it so hard to find any R related job? R now has the ability to work with Tensorflow, Torch and MXNet but still people are only asking for Python, SAS, PowerBI and Tableau? Can anyone help regarding some legit R jobs?"
+462,datascience,Should the field of data science be more diverse?
+463,datascience,COVID cases data mishap in the UK
+464,datascience,Alternative to spread sheet as a data source for visualizations?
+465,datascience,[Update #3] IAMA Senior Data Scientist at Disney and I’m setting up free Q&A Zoom sessions to help people who are looking to enter/transition into data science
+466,datascience,Putting R into Prod
+467,datascience,Is my overall perception of ML / AI accurate? Tools and languages
+468,datascience,What to do with Black-box solutions from 3rd Party Data Science Consultants?
+469,datascience,Anyone have any knowledge about employment at private universities? What kind of negotiation parameters can I expect?
+470,datascience,How do you measure the actual impact of a model?
+471,datascience,Tips For Affording Grad School?
+472,datascience,From a Data Scientist to an analyst | Is it a smart move?
+473,datascience,"Is Decision Intelligence a real field, or just Google marketing hype?"
+474,datascience,Weekly Entering & Transitioning Thread | 04 Oct 2020 - 11 Oct 2020
+475,datascience,I created a complete overview of machine learning concepts seen in 27 data science and machine learning interviews
+476,datascience,"To censor, or not to censor personal data"
+477,datascience,Are there any organizations looking for part-time data scientists on a volunteer basis to help address human trafficking?
+478,datascience,How to evaluate a credit score model in production? Wouldn't the impact of the credit score model ruin the training of the future credit score model?
+479,datascience,How do you deal with collaboration/version control on large datasets?
+480,datascience,"""What sets them apart from their competitors is that their predictive machine focuses on causality, and is capable of applying time-series data from a vast range of industries, rather than just one"""
+481,datascience,Should I Spec into SAS
+482,datascience,Tensorflow vs Pytorch vs Keras
+483,datascience,Rejected by 4 companies at final interview stage because I don't have enough business experience. Potential freelance project fell through. Losing hope.
+484,datascience,SAS is easily one of the worst languages I have ever had to learn
+485,datascience,Data Analyst candidates: what do you look for in a job description?
+486,datascience,Everyonr talks about transitioning into Data Science. Has anyone transitioned out of data science? Where did you end up? Why did you leave?
+487,datascience,Reporting Hypothesis/AB test results to the business
+488,datascience,Data science is different today
+489,datascience,"Which data science area, application might harm society the most?"
+490,datascience,"Freelancers, what's the best way to share your results to business stakeholders?"
+491,datascience,Any success stories implementing Scrum for data science teams
+492,datascience,Why is there so little information available about productionizing an ML model?
+493,datascience,"I’m starting a new job and was told we would be integrating several ERP systems, but no one seems to know what’s going on. I’ve decided to lead the effort, but I don’t know what to do. Has anyone done this before? What are the first steps? I don’t think we have even mapped our data yet."
+494,datascience,Is IBM SPSS Modeler used nowadays?
+495,datascience,When did you know you were ready to become a manager?
+496,datascience,"Aside remuneration, what made you pursue a career in DS? What makes you passionate about this field?"
+497,datascience,Data Scientist = Web Master from the 90s
+498,datascience,Bad Methodology at Work
+499,datascience,What's the difference between production code and non production code?
+500,datascience,Need help on finding the correlation of different suppliers on product delivery delays.
+501,datascience,Best practices for managing experimental pipelines
+502,datascience,Any free selective bootcamps starting soon?
+503,datascience,Help Hiring/Interviewing a Data Scientist
+504,datascience,Does anyone have any Python Packages they recommend for using SQL and why?
+505,datascience,I feel like I've plateaued and don't know where to go from here.
+506,datascience,Learn CNNs Free - Live and Online by Harvard Faculty
+507,datascience,How often do you use hypothesis/significance tests?
+508,datascience,"My project is stuck because my client wants 500,000 Facebook profiles of certain type, which..."
+509,datascience,"When people say ""deploying a model"", does that mean developing a REST API end point for the model? How similar is this to RESTful API development in traditional back-end software engineering?"
+510,datascience,What was your first job in data science like?
+511,datascience,[Discussion] - using product images and sales history to project inventory forecasting
+512,datascience,Any Maptitude users out there?
+513,datascience,How to cluster similar items based on transactions data?
+514,datascience,"Feature Leakage, how to handle it?"
+515,datascience,Dynamic Data Visualization Tool for SharePoint
+516,datascience,What would be some use cases for using Data Science and Machine Learning in an HR department?
+517,datascience,Math vs CS background
+518,datascience,(Freelancer question) What is the best way to make and delivery a SQL database?
+519,datascience,"SWE vs. MLE, where is the line drawn?"
+520,datascience,Process to discover complex causes in cause/effect relationships?
+521,datascience,Using Airflow for running scripts?
+522,datascience,Weekly Entering & Transitioning Thread | 27 Sep 2020 - 04 Oct 2020
+523,datascience,Best laptops for data science that are smoothly compatible with dual boot Ubuntu/Windows 10?
+524,datascience,To what extent is data science becoming a subset of software engineering?
+525,datascience,How often do you find yourself Googling stuff?
+526,datascience,Data Science in tech vs other industries. How do they differ?
+527,datascience,"How would one go about learning how to ""productionize"" our code if we don't already have job experience?"
+528,datascience,"Data scientists/analysts/engineers who feel you have a nice balance of pay and job satisfaction, what do you do?"
+529,datascience,How to Organise Knowledge Within a Team?
+530,datascience,Reiforcement learning for an optimization problem
+531,datascience,"Is it worth getting ""good"" at Excel before getting into Python for business analysis?"
+532,datascience,Discord Server for Data Science
+533,datascience,Residential Construction Model & Analytics
+534,datascience,Pandas is so cool
+535,datascience,Local computing setup
+536,datascience,Thoughts on BigQuery ML?
+537,datascience,Diversity in Data Science
+538,datascience,/r/datascience hit 300k subscribers yesterday
+539,datascience,Github portofolio: sharing work-related SQL?
+540,datascience,What topic of Data Science would you want to have time to research?
+541,datascience,"Relation of data science to its composite fields, and of its subfields to past work"
+542,datascience,How to work in another country as a data scientist/analyst?
+543,datascience,How to find fraudulent transactions if I don't have any examples / labels for fraud? Anomaly detection perhaps? (python)
+544,datascience,Developed environment for a team of 10+ data scientists
+545,datascience,"General question about recommendation algorithms (like Spotify or Amazon). Is a new algorithm trained for each and every person, or is it trained using aggregate consumer data?"
+546,datascience,What’s the current state of the art approach to fraud detection?
+547,datascience,Can someone explain to me the different DS careers?
+548,datascience,What hours do you work per week? Overtime? Weekends?
+549,datascience,What to do with now with my open metadata vocabulary
+550,datascience,"I need a database that shows a list of countries by the number of work accidents occurried, where I can find this ?"
+551,datascience,Metadata and Collaboration Tool
+552,datascience,Alternative Python Module to Pandas
+553,datascience,Underrated R Packages
+554,datascience,"I called a linear graph a ""Uh, what is it called, line with a slope?"" today. Please share your brain farts with me"
+555,datascience,What domain of data analytics is currently growing and will be in demand in near future?
+556,datascience,What are some tips or resources I can look into to explain data science to an audience that's completely unfamiliar with it's possibilities and uses?
+557,datascience,What are some good accredited DS programs for a mid career professional?
+558,datascience,What type of ML role am I looking to hire?
+559,datascience,"Linux, Mac or Windows OS for data science—what do you prefer"
+560,datascience,Anybody have experience with Deploying Recommendation Systems on Airflow?
+561,datascience,Best Way to Organize Git Repositories for Data Science Department
+562,datascience,Some data on my failed job search
+563,datascience,We're data scientists planning a virtual career fair for other data pros during COVID-19. Looking for a job? Looking for help?
+564,datascience,Don’t you love it when you realize you don’t know numpy as well as you thought you did while taking the technical interview?
+565,datascience,Why is competitive programming still asked in interviews for DS roles??!!
+566,datascience,Good R program for heat maps?
+567,datascience,Weekly Entering & Transitioning Thread | 20 Sep 2020 - 27 Sep 2020
+568,datascience,"Value of ""Senior"" job title for first job after PhD?"
+569,datascience,"What is the most simplest way to convert an ai program into a website, totally a simple one"
+570,datascience,Get some domain knowledge
+571,datascience,Feedback for Predictive Model for Financial Company
+572,datascience,Why Python?
+573,datascience,Interpretation of a data vector as a random variable.
+574,datascience,Doing machine learning in R. Which library is most used nowadays?
+575,datascience,What are some of the must learn skills for a business analyst
+576,datascience,How many languages should you know?
+577,datascience,Why do data scientists need to know data engineering and software engineering? Aren't there data engineers and software engineers often at the same company alongside data scientists?
+578,datascience,Does anyone use Dash by Plotly's Enterprise Solution?
+579,datascience,"Looking for BI platform to share customized, private dashboards to different clients. What do you suggest?"
+580,datascience,Some advice required to implement Recommender System at scale
+581,datascience,Best way to account for gender differences in metabolomics DNNs?
+582,datascience,”ML to extract data” - Is it really that advanced?
+583,datascience,How does algorithm development work?
+584,datascience,Data Science or Digital Marketing? Can you be a hybrid of both? Any opinions?
+585,datascience,"How do you manage notebooks, data & results in a team?"
+586,datascience,What would you do differently if you were in your latter years of college (junior-senior)
+587,datascience,Using assigned clusters as variables for a regression/classification task?
+588,datascience,Where to place data scientists inside an organization?
+589,datascience,"For those of you who don’t use any math/ stats in your jobs, what do you do?"
+590,datascience,Advice Needed: How to align with mgmt on what my actual job is (or should be)?
+591,datascience,"Data Scientists who work with deep learning models regularly, what do you do?"
+592,datascience,How's the job market for data scientists with 1-2 years of experience.
+593,datascience,Working on a time series project
+594,datascience,How does a data scientist vs machine learning engineer job title affect career growth if they have the same responsibilities?
+595,datascience,Can logistic regression be used as a feature selection method before using ensembles?
+596,datascience,Data Science - Programming v Math
+597,datascience,Role of data quality vs boundary conditions in classification models?
+598,datascience,In what format do you most frequently store your visual data?
+599,datascience,"""It's easier to teach coding to mathematicians than to teach math to coders"": Is this sentiment really reflected in the job search process?"
+600,datascience,Using data science to optimize spend on influencers?
+601,datascience,Dash App Best Practices
+602,datascience,EXTREMELY CURIOUS! Is anyone here using Windows Subsystem for Linux 2?
+603,datascience,"6-figure in norCal, what's the catch?"
+604,datascience,How do I incorporate a DevOps like environment for personal projects?
+605,datascience,redcap randomization
+606,datascience,CPU choice: An old question with new considerations
+607,datascience,Why don’t we use backward/forward elimination anymore?
+608,datascience,Deep learning in Fintech: how common/how useful is it?
+609,datascience,Non-ML techniques in Kaggle?
+610,datascience,"Which is more important in data science: domain acumen (healthcare, business, psychology, etc.) SQL (data engineering) or math (statistics)?"
+611,datascience,"What data can I collect about my body such as blood sugar, body temp, etc?"
+612,datascience,RTX 3080 for Data Science?
+613,datascience,What are other customer's related measurements apart from LTV?
+614,datascience,Weekly Entering & Transitioning Thread | 13 Sep 2020 - 20 Sep 2020
+615,datascience,What's difficult about your job?
+616,datascience,Let's talk about climate change
+617,datascience,Day long data science interview at an organization - how do I approach this?
+618,datascience,PhD outside of academia
+619,datascience,"PSA: For anyone using Prophet for forecasting, double check to make sure COVID effects weren't picked up in the yearly seasonality feature."
+620,datascience,"As data scientists, does anyone else despise PowerPoint?"
+621,datascience,Would anyone be interested in the R quantreg package being translated to python?
+622,datascience,Weekly Lesson Learned Thread
+623,datascience,What platform do professionals code in?
+624,datascience,What do you look for in a data science leader?
+625,datascience,Software engineering resources for DS
+626,datascience,Do math-oriented entry level data science positions exist?
+627,datascience,Building from the ground up (When life gives you spreadsheets)
+628,datascience,Today I reached a new milestone: got rejected from an internship in 5 hours!
+629,datascience,How to learn more in-depth about frameworks/languages?
+630,datascience,"How do you keep on top of new developments in DS? New Python/R packages, new AWS/Azure/GCP products etc?"
+631,datascience,Keeping in touch with techniques
+632,datascience,Internal branding of data products
+633,datascience,What would this statistical technique be called?
+634,datascience,Comparison of clustering algorithms for Customer Segmentation?
+635,datascience,Question about predicting Customer Life Time Value at the time of acquisition.
+636,datascience,What can data science skills be useful for outside of data science?
+637,datascience,How to organize data cleaning scripts
+638,datascience,Varied costs in over / under forecasting
+639,datascience,Data Science tech stack to use in AWS
+640,datascience,Experience/Advice from a 10+ year data scientist
+641,datascience,Remote JupyterHub with Local Computation
+642,datascience,Is a second MS worth it?
+643,datascience,"For anyone who uses Kanban boards, should 'issues' be renamed to 'opportunities'?"
+644,datascience,My first week as an internee at a Data Science startup
+645,datascience,"First Real Project Done, What's Next?"
+646,datascience,Over-Valuing Certifications
+647,datascience,Custom Recommendation System Issue
+648,datascience,Looking for someone to do projects together
+649,datascience,"Currently a Data Scientist with a Bachelors, should I get my Masters?"
+650,datascience,Remote work in data science
+651,datascience,"I'm fairly proficient with SAS, which program should I learn next? Python, R, or SQL?"
+652,datascience,R vs Python 2020 - As a Computer Scientist
+653,datascience,What we look for in hiring
+654,datascience,Is it a bad idea to NOT do data science?
+655,datascience,"If my goal is to get into industry not research, should I spend much time learning to code algorithms from scratch or just learn the libraries in depth?"
+656,datascience,Differences between the Python communities and the R communities.
+657,datascience,"Use a lot of excel formulas to create datasets, is there a better method I should use?"
+658,datascience,How do you learn the Maths?
+659,datascience,Data Science as a Hobby
+660,datascience,Outlook for data scientists in 10 years
+661,datascience,Is it common for data scientists to first start out as data analysts?
+662,datascience,How do you guys interact with software engineers on the job?
+663,datascience,ASA vs INFORMS
+664,datascience,Questions to ask management applicants
+665,datascience,What are some good organizations focused on datascience to join?
+666,datascience,How is Python easier than R?
+667,datascience,Lean six sigma
+668,datascience,Weekly Entering & Transitioning Thread | 06 Sep 2020 - 13 Sep 2020
+669,datascience,Congratulations on reaching the next step
