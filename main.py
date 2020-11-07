@@ -11,10 +11,6 @@ if __name__ == "__main__":
     utils = Utils()
     models = Models()
     dataFrame1 = utils.load_from_csv('./in/dataTraining.csv')
-    dataFrame2 = utils.load_from_csv('./in/dataDataScience.csv')
-    dataFrame3 = utils.load_from_csv('./in/dataEducation.csv')
-    dataFrame4 = utils.load_from_csv('./in/dataFashion.csv')
-    dataFrame5 = utils.load_from_csv('./in/dataPolitics.csv')
     frames = [dataFrame1]
     alldata = pd.concat(frames)
     alldata_data = alldata.values[:, 0]
@@ -23,8 +19,6 @@ if __name__ == "__main__":
     x_train = vectorizer.fit_transform(alldata_data)
     x_train, x_test, y_train, y_test = train_test_split(
         x_train, alldata_tarjet, test_size=0.33, random_state=42)
-    # data = utils.load_from_csv('./in/felicidad.csv')
-    # X, y = utils.features_target(data, ['score', 'rank', 'country'], ['score'])
-    #models.grid_training(X, y)
+
     models.grid_training(x_train, y_train)
     print(alldata)

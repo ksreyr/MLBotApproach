@@ -32,7 +32,7 @@ class Models:
                 'activation': ['identity', 'logistic', 'tanh', 'relu'],
                 'solver': ['lbfgs', 'sgd', 'adam'],
                 'hidden_layer_sizes': [
-                    (1,), (2,), (3,), (4,), (12,), (13,), (14,), (15,), (30,), (80,)
+                    (4,), (12,), (13,), (14,), (15,), (30,), (80,)
                 ]
             },
             'TreeCl': {

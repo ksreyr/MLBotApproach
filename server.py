@@ -46,14 +46,10 @@ def api():
         wordsU = request.form['words']
         # key = request.form['key']
         dataFrame1 = utils.load_from_csv('./in/dataTraining.csv')
-        frames = [dataFrame1]
-        alldata = pd.concat(frames)
+        alldata = pd.concat([dataFrame1])
         alldata_data = alldata.values[:, 0]
-        alldata_one = alldata.values[:, 1]
-        alldata_one = alldata_one[0]
-        print(alldata_one)
         vectorizer = TfidfVectorizer()
-        x_train = vectorizer.fit_transform(alldata_data)
+        vectorizer.fit_transform(alldata_data)
         x_test = vectorizer.transform([wordsU])
         prediction = model.predict(x_test)
         return jsonify({'prediccion': list(prediction)})
