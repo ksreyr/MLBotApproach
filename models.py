@@ -20,15 +20,15 @@ class Models:
         }
 
         self.params = {
-            'SVR': {
-                'kernel': ['linear', 'poly', 'rbf'],
-                'gamma': ['auto', 'scale'],
-                'C': [1, 5, 10]
-            },
-            'GRADIENT': {
-                'loss': ['ls', 'lad'],
-                'learning_rate': [0.01, 0.05, 0.1]
-            },
+            # 'SVR': {
+            #    'kernel': ['linear', 'poly', 'rbf'],
+            #    'gamma': ['auto', 'scale'],
+            #    'C': [1, 5, 10]
+            # },
+            # 'GRADIENT': {
+            #    'loss': ['ls', 'lad'],
+            #    'learning_rate': [0.01, 0.05, 0.1]
+            # },
             'NB': {
                 'alpha': [.01]
             },
