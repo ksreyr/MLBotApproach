@@ -10,14 +10,14 @@ from sklearn.model_selection import train_test_split
 if __name__ == "__main__":
     utils = Utils()
     models = Models()
-    dataFrame1 = utils.load_from_csv('./in/dataAnimals.csv')
+    dataFrame1 = utils.load_from_csv('./in/dataTraining.csv')
     dataFrame2 = utils.load_from_csv('./in/dataDataScience.csv')
     dataFrame3 = utils.load_from_csv('./in/dataEducation.csv')
     dataFrame4 = utils.load_from_csv('./in/dataFashion.csv')
     dataFrame5 = utils.load_from_csv('./in/dataPolitics.csv')
-    frames = [dataFrame1, dataFrame2, dataFrame3, dataFrame4, dataFrame5]
+    frames = [dataFrame1]
     alldata = pd.concat(frames)
-    alldata_data = alldata.values[:, 2]
+    alldata_data = alldata.values[:, 0]
     alldata_tarjet = alldata.values[:, 1]
     vectorizer = TfidfVectorizer()
     x_train = vectorizer.fit_transform(alldata_data)
