@@ -31,10 +31,10 @@ def predict():
     alldata_data = alldata.values[:, 2]
     alldata_one = alldata.values[:, 1]
     alldata_one = alldata_one[0]
-    print("ALL"+alldata_one)
+    print(alldata_one)
     vectorizer = TfidfVectorizer()
     x_train = vectorizer.fit_transform(alldata_data)
-    x_test = vectorizer.transform(['where is Obama'])
+    x_test = vectorizer.transform(['where is Dog'])
     prediction = model.predict(x_test)
     return jsonify({'prediccion': list(prediction)})
 
@@ -52,5 +52,5 @@ def api():
 
 # TODO Sebestian Cristian Jimmy ampliar los request para un post con mensajes
 if __name__ == "__main__":
-    model = joblib.load('./models/0.9319120119763165')
+    model = joblib.load('./models/0.7865323831853058')
     app.run(port=8080, debug=True)
