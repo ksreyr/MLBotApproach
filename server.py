@@ -23,6 +23,7 @@ def api():
 	if request.method == 'POST':
 		
 		wordsU = request.form['words']
+		#key = request.form['key']
 		print(wordsU);
 
 	return jsonify({'prediccion': wordsU})
