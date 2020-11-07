@@ -57,5 +57,5 @@ def api():
 
 # TODO Sebestian Cristian Jimmy ampliar los request para un post con mensajes
 if __name__ == "__main__":
-    model = joblib.load('./models/0.04065040650406505')
+    model = joblib.load('./models/0.06504065040650407')
     app.run(port=8080, debug=True)
