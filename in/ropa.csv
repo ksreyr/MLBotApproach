@@ -1,46 +1,3 @@
-pre,res
-hola,hola en que te podemos ayudar
-Hola,hola en que te podemos ayudar
-hola!,hola en que te podemos ayudar
-Hola buenas noches, hola buenas noches en que te podemos ayudar.
-Hola buenas tardes, hola buenas tardes en que te podemos ayudar.
-Hola buenos dias, hola buenas dias en que te podemos ayudar.
-como estas, muy bien gracias. En que te podemos ayudar?
-quien eres?, soy tu asistente personal. puedes hacerme todas las inquietudes.
-quien eres, soy tu asistente personal. puedes hacerme todas las inquietudes.
-por que no puedo comprar, que problemas tienes a la hora de comprar?
-el carrito de compras no funciona, que error te sale al utilizar el carrito de compras?
-donde puedo ver las prendas de dama?, las prendas de dama las puedes encontrar en el la seccion dama que encuentras en el menu superior. 
-tienen numero de contacto de la tienda fisica?, si por supuesto, nuestro numero de contacto es 3208637017
-tienen numero de contacto de la tienda fisica, si por supuesto, nuestro numero de contacto es 3208637017
-tienen un correo de contacto de la tienda?, si por supuesto nuestro correo es serome111@gmail.com
-tienen un correo de contacto de la tienda, si por supuesto nuestro correo es serome111@gmail.com
-donde estan ubicados?, estamos hubicados en la ciudad neiva huila, centro comercial Pubdev.
-donde estan ubicados, estamos hubicados en la ciudad neiva huila, centro comercial Pubdev.
-cuando tendran promociones?,tendremos promociones los dias todos los dias sin iva.
-cuando tendran promociones,tendremos promociones los dias todos los dias sin iva.
-¿cuando tendran promociones?,tendremos promociones los dias todos los dias sin iva.
-las prendas tienen precio fijo?,si nosotros en la plataforma majamos un estandart de precios fijos.
-las prendas tienen precio fijo?,si nosotros en la plataforma majamos un estandart de precios variables.
-¿cuanto es el valor del envio a mi ciudad?, cada ciudad tiene un valor que estara en la factura que te muestra a la hora de cancelar el producto. Intenta generar un pago y podras ver esos precios segun tu ciudad.
-cuanto es el valor del envio a mi ciudad, cada ciudad tiene un valor que estara en la factura que te muestra a la hora de cancelar el producto. Intenta generar un pago y podras ver esos precios segun tu ciudad.
-cuanto es el valor del envio a mi ciudad?, cada ciudad tiene un valor que estara en la factura que te muestra a la hora de cancelar el producto. Intenta generar un pago y podras ver esos precios segun tu ciudad.
-¿Venden ropa al por mayor?, NO. solo vendemos las cantidades en inventario que tenemos en nuestra plataforma
-¿Hay un importe mínimo/máximo para realizar un pedido?, No. No tenemos un limite maximo ni minimo con un producto es suficiente.
-¿Puede no haber disponibilidad de artículos en la compra online?, algunos articulos siguen en linea ya que tendremos un nuevo stock con mas productos para que puedas separar tu pedido. el nuevo stock siempre tarda 5 dias en renovar asi que debes tener paciencia si te interesa alguno de nuestros articulos.
-¿Cómo puedo saber si sirven a domicilio?, una vez compras nuestros productos los llevaremos a la direccion que se pone en la compra.
-¿Puedo añadir comentarios a mi pedido?, no. no puedes añadir comentarios los producos solo se encuentran en las condiciones de venta del producto.
-¿Cómo puedo trabajar en su empresa?, de momento no estamos resiviendo hojas de vida pero puedes estar pendiente en la seccion de informacion de nuestra pagina.
-se puede hacer devolucion de las prendas?, solo se realizan devoluciones si el producto no cumple los terminos de devoluciones que tenemos en nuestra plataforma. Los terminos los puedes leer en la seccion terminos de compra.
-¿Cuánto cuesta el envío?,cada ciudad tiene un valor que estara en la factura que te muestra a la hora de cancelar el producto. Intenta generar un pago y podras ver esos precios segun tu ciudad.
-¿Cuánto tarda el envío?, el envio tarda segun en la ciudad donde estes por el momento serian 5 dias a mas tardar para que resivas tu producto.
-¿Cómo puedo consultar el estado de mi pedido?, para consultar el estado de tu pedido debes ingresar en la plataforma e ir a la seccion de informacion de pedidos que se encuentra en el menu de administracion.
-¿Cómo se transporta el pedido?, el pedido e envia por medio de una transportadora llamada 472 que tiene covertura en todo el pais para envios internacionales varia segun el pais.
-¿Se hacen envíos a Ceuta, Melilla, Canarias, Tenerife y Baleares?, se hacen envios a todas partes del mundo, cada envio tiene su costo y su tiempo segun donde se compre recuerda que nuestro punto de venta es en la ciudad de neiva huila cololmbia.
-¿Tenéis una atención al cliente?, por supuesto por este medio me puedes comunicar todas las preguntas que tengas y las estaremos resolviendo.
-¿Se permiten devoluciones?, no las devoluciones solo se realian si se cumplen los criterios de devolucion que se encuentran en nuestra plataforma
-¿Cómo puedo contactar con vosotros?, para contactar con nosotros puedes hacerlo a travez de este chat. estaremos respondiendo y ayudandote en todo lo que necesites.
-¿Qué hago si me llega el producto dañado durante el transporte?, las politicas y garantias las puedes ver en la plataforma en la seccion de polticas de compras.
 ¿Quién está detrás de la página?, detras de la pagina se encuentra la empresa Pubdev que estara brindando soluciones a tus inquietudes sobre nuestros productos y servicios.
 ¿Cómo surgió la idea?,no se a que idea te refieras pero nuestra empresa surgio a raiz de una necesidad social.
 ¿Quiénes son los partners que apoyan el proyecto?, Pubdev es uno de nuestros partners en este momento.
@@ -61,26 +18,25 @@ He olvidado la fecha de entrega del pedido, para consultar la fecha de tu pedido
 ¿Puedo pedir la factura electrónica?, por uspuesto! todas las facturas de tu compra te llegaran al correo electronico registrado.
 ¿Qué es el precio estimado y precio total? el precio estimado es el precio segun tu hubicacion geografica y el total es el precio final que debes cancelar en tu compra.
 ¿Cuáles son los métodos de pago disponibles?, tenemos una parala que presta diferentes servicios como PSE. MASTER CARD. VISA. PAYPAL. EFECTY BALOTO. 
-¿Qué tarjetas se aceptan para pagar los pedidos?,MASTER CARD, VISA.
-¿Puedo pagar con una tarjeta que no esté a mi nombre?,en efecto puedes hacerlo. pero debes tener toda la informacion de la misma, ten encuenta nuestras politicas de compra.
+¿Qué tarjetas se aceptan para pagar los pedidos?,MASTER CARD. VISA.
+¿Puedo pagar con una tarjeta que no esté a mi nombre?,en efecto puedes hacerlo. pero debes tener toda la informacion de la misma. ten encuenta nuestras politicas de compra.
 ¿Cuándo se carga el pago en la cuenta bancaria?, el pago de la cuenta bancaria se carga en el momento en que efectuas la transaccion.
 ¿El precio de los artículos online es el mismo que el de los mismos artículos en las tiendas?, si. nosotros manejamos los mismos precios de las tiendas.
-¿Cuál es el horario de entregas?, el horario varia, no se tiene una empresa pre definida.
+¿Cuál es el horario de entregas?, el horario varia. no se tiene una empresa pre definida.
 ¿Qué ocurre si el pedido llega tarde?, si tu te encuentras fuera de tu casa en el momento de entrega la empresa dejara tu pedido en un punto de reparto cercano.
 ¿Qué ocurre si no puedo estar en la franja horaria de mi pedido?,realmente si tu te encuentras fuera de tu casa en el momento de entrega la empresa dejara tu pedido en un punto de reparto sercano.
-¿Es posible enviar el pedido a una dirección diferente al titular del pago?, si. en nuestra plataforma a la hora de realizar el pago te dira si quieres enviarlo a una direccion distinta de tu direccion.
 ¿Cuál es la política de devoluciones?, nuestra politica de devoluciones la puedes encontrar en la seccion de politicas de nuestra pagina web en la parte superior puedes ver la opcion en el menu.
 ¿Cómo devuelvo los productos si no me convencen?, una vez comprados los productos no haremos devoluciones de dinero.
 ¿En caso de recibir un artículo en mal estado qué es lo que tengo que hacer?, revisar las politicas de garantias y reenviar el producto para cambio.
 ¿Cómo comprar?, solo debes agregar tus productos al carrito luego ir al carrito de compras y darle en finalizar compra para empezar el proceso de pago.
 ¿Necesito una cuenta para hacer una compra?, No. no es necesario de una cuenta para realizar tu compra pero tener una cuenta te sera de utilidad para no estar llenando los mismos datos cada vez que te registras.
-¿Cómo puedo comunicarme con ustedes?, puedes comunicarte con nosotros a travez de este medio, estaremos respondiendo todas tus dudas.
+¿Cómo puedo comunicarme con ustedes?, puedes comunicarte con nosotros a travez de este medio. estaremos respondiendo todas tus dudas.
 ¿Los precios ya incluyen IVA?, si todos los productos y servicios que ofrecemos incluyen iva.
 ¿Los precios ya incluyen el envío?, cuando estas efectuando la compra podras ver el precio de envio de la compra.
 ¿Cuáles son los medios de pago?, tenemos una parala que presta diferentes servicios como PSE. MASTER CARD. VISA. PAYPAL. EFECTY BALOTO.
 ¿Cómo hacerle seguimiento a mi pedido?, puedes ir al historial de pedidos para poder
-¿Cuánto se demora en llegarme el pedido?, el pedido tiene un tiempo de entrega de has 10 dias en colombia y en otro pais varia segun la distancia. recuerda que entre mas cerca estes de la ciudad de neiva mas rapido llegara tu pedido asi que no tendras que esperar 10 dias. 
+¿Cuánto se demora en llegarme el pedido?, el pedido tiene un tiempo de entrega de has dies dias en colombia y en otro pais varia segun la distancia. recuerda que entre mas cerca estes de la ciudad de neiva mas rapido llegara tu pedido asi que no tendras que esperar dies dias. 
 ¿Cuánto me costara el envió del pedido?, cada ciudad tiene un valor que estara en la factura que te muestra a la hora de cancelar el producto. Intenta generar un pago y podras ver esos precios segun tu ciudad.
 ¿Qué pasa si llega el pedido y no estoy?, si eso llega a pasar. si tu te encuentras fuera de tu casa en el momento de entrega la empresa dejara tu pedido en un punto de reparto cercano.
-Si la talla que pedí no me sirve, ¿cómo puedo hacer el cambio?, debes revisar nuestros terminos y condiciones de compra y ahi estara los pasos a seguir con el producto.
-Si el producto que pedí llegó en mal estado, ¿cómo puedo hacer el cambio?,revisar las politicas de garantias y reenviar el producto para cambio.
+Si la talla que pedí no me sirve. ¿cómo puedo hacer el cambio?, debes revisar nuestros terminos y condiciones de compra y ahi estara los pasos a seguir con el producto.
+Si el producto que pedí llegó en mal estado ¿cómo puedo hacer el cambio?,revisar las politicas de garantias y reenviar el producto para cambio.

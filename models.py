@@ -26,7 +26,7 @@ class Models:
                 'alpha': [.01, .04, .005]
             },
             'KNN': {
-                'n_neighbors': [3, 5, 11, 19]
+                'n_neighbors': [3, 5, 10]
             },
             'Nn': {
                 'activation': ['identity', 'logistic', 'tanh', 'relu'],
@@ -47,7 +47,7 @@ class Models:
         best_model = None
         for name, reg in self.reg.items():
             grid_reg = GridSearchCV(
-                reg, self.params[name], cv=3, scoring='accuracy').fit(X, y)
+                reg, self.params[name], cv=2, scoring='accuracy').fit(X, y)
             score = np.abs(grid_reg.best_score_)
             print("Score: "+str(score))
             print("Model: "+str(grid_reg.best_estimator_))
