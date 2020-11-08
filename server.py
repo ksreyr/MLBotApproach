@@ -44,18 +44,19 @@ def api():
     utils = Utils()
     if request.method == 'POST':
         wordsU = request.form['words']
+        print(str(wordsU))
         # key = request.form['key']
-        dataFrame1 = utils.load_from_csv('./in/dataTraining.csv')
+        dataFrame1 = utils.load_from_csv('./in/ropa.csv')
         alldata = pd.concat([dataFrame1])
         alldata_data = alldata.values[:, 0]
         vectorizer = TfidfVectorizer()
         vectorizer.fit_transform(alldata_data)
-        x_test = vectorizer.transform(['hola'])
+        x_test = vectorizer.transform([wordsU])
         prediction = model.predict(x_test)
         return jsonify({'prediccion': list(prediction)})
 
 
 # TODO Sebestian Cristian Jimmy ampliar los request para un post con mensajes
 if __name__ == "__main__":
-    model = joblib.load('./models/0.11263736263736264')
+    model = joblib.load('./models/0.2857142857142857')
     app.run(port=8080, debug=True)
