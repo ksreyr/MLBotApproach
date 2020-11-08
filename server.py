@@ -7,11 +7,12 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer, TfidfVectorizer
 from sklearn.model_selection import train_test_split
+import csv
 
 app = Flask(__name__)
 
 # routes
-
+datosPR={}
 
 @app.route('/')
 def Index():
@@ -38,13 +39,14 @@ def predict():
     prediction = model.predict(x_test)
     return jsonify({'prediccion': list(prediction)})
 
-
 @app.route('/api', methods=['POST'])
 def api():
     utils = Utils()
     if request.method == 'POST':
         wordsU = request.form['words']
+        Uid = request.form['Uid'] # datos de usuario
         print(str(wordsU))
+        print(str(Uid))
         # key = request.form['key']
         dataFrame1 = utils.load_from_csv('./in/ropa.csv')
         alldata = pd.concat([dataFrame1])
@@ -53,10 +55,18 @@ def api():
         vectorizer.fit_transform(alldata_data)
         x_test = vectorizer.transform([wordsU])
         prediction = model.predict(x_test)
-        return jsonify({'prediccion': list(prediction)})
+        datosPR[wordsU]=list(prediction) #aqui guardan las preguntas y respuestas
+        print(datosPR)
 
+        # guardando informacion con pandas XD
+        if wordsU == "salir":
+            df = pd.DataFrame(datosPR)
+            df.to_csv('in/'+Uid+'.csv')
+
+
+        return jsonify({'prediccion': list(prediction)})
 
 # TODO Sebestian Cristian Jimmy ampliar los request para un post con mensajes
 if __name__ == "__main__":
-    model = joblib.load('./models/0.2857142857142857')
+    model = joblib.load('./models/0.35873440285204994')
     app.run(port=8080, debug=True)

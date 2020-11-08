@@ -84,14 +84,15 @@ function sendNewMessage() {
     }, 250);
 
     var datos = new FormData();
-    datos.append('words', newMessage);  
+    datos.append('words', newMessage);
+    datos.append('Uid', myStorage['chatID']);
     fetch('/api',{
       method: 'POST',
       body: datos
      })
     .then( res => res.json())
     .then( data => {
-      console.log(data);
+      // console.log(data);
         var messagesContainer = $('.messages');
 
     messagesContainer.append([
