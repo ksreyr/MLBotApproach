@@ -45,7 +45,7 @@ def api():
     if request.method == 'POST':
         wordsU = request.form['words']
         # key = request.form['key']
-        dataFrame1 = utils.load_from_csv('./in/ropa.csv')
+        dataFrame1 = utils.load_from_csv('./in/dataTraining.csv')
         alldata = pd.concat([dataFrame1])
         alldata_data = alldata.values[:, 0]
         vectorizer = TfidfVectorizer()
@@ -57,5 +57,5 @@ def api():
 
 # TODO Sebestian Cristian Jimmy ampliar los request para un post con mensajes
 if __name__ == "__main__":
-    model = joblib.load('./models/0.18874643874643876')
+    model = joblib.load('./models/0.06504065040650407')
     app.run(port=8080, debug=True)

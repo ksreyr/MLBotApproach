@@ -37,7 +37,7 @@ class Models:
             },
             'TreeCl': {
                 'criterion': ['gini', 'entropy'],
-                'max_depth': [4, 5, 6, 7, 8, 9, 10]
+                'max_depth': [4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 20, 30, 40, 50, 70, 90, 120, 150]
             }
 
         }
@@ -47,7 +47,7 @@ class Models:
         best_model = None
         for name, reg in self.reg.items():
             grid_reg = GridSearchCV(
-                reg, self.params[name], cv=3).fit(X, y)
+                reg, self.params[name], cv=3, scoring='accuracy').fit(X, y)
             score = np.abs(grid_reg.best_score_)
             print("Score: "+str(score))
             print("Model: "+str(grid_reg.best_estimator_))
