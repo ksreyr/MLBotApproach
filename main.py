@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 if __name__ == "__main__":
     utils = Utils()
     models = Models()
-    dataFrame1 = utils.load_from_csv('./in/dataTraining.csv')
+    dataFrame1 = utils.load_from_csv('./in/ropa.csv')
     frames = [dataFrame1]
     alldata = pd.concat(frames)
     alldata_data = alldata.values[:, 0]
