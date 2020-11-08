@@ -6,7 +6,7 @@ from utils import Utils
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer, TfidfVectorizer
-from sklearn.model_selection import train_test_split
+
 
 app = Flask(__name__)
 
@@ -44,14 +44,9 @@ def api():
     utils = Utils()
     if request.method == 'POST':
         wordsU = request.form['words']
-        print(str(wordsU))
         # key = request.form['key']
-        dataFrame1 = utils.load_from_csv('./in/ropa.csv')
-        alldata = pd.concat([dataFrame1])
-        alldata_data = alldata.values[:, 0]
-        vectorizer = TfidfVectorizer()
-        vectorizer.fit_transform(alldata_data)
-        x_test = vectorizer.transform([wordsU])
+        print(utils.textData_cleaning(wordsU))
+        x_test = utils.vectorized_fiting('./in/ropa.csv',utils.textData_cleaning(wordsU))
         prediction = model.predict(x_test)
         return jsonify({'prediccion': list(prediction)})
 
