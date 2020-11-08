@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # routes
 datosPR={}
-
+Uid='nonekey'
 @app.route('/')
 def Index():
     return render_template('index.html')
@@ -44,8 +44,8 @@ def api():
     if request.method == 'POST':
         wordsU = request.form['words']
         Uid = request.form['Uid'] # datos de usuario
-        #print(str(wordsU))
-        #print(str(Uid))
+        print(str(wordsU))
+        print(str(Uid))
         # key = request.form['key']
         dataFrame1 = utils.load_from_csv('./in/ropa.csv')
         alldata = pd.concat([dataFrame1])
