@@ -84,8 +84,10 @@ function sendNewMessage() {
     }, 250);
 
     var datos = new FormData();
+    
     datos.append('words', newMessage);
     datos.append('Uid', myStorage['chatID']);
+    datos.append('key','48e4d31402d5a0bb72a3943002160fbb');
     fetch('/api',{
       method: 'POST',
       body: datos

@@ -16,6 +16,10 @@ from nltk.stem import SnowballStemmer
 
 class Utils:
 
+    def __init__(self):
+        self.key = "none"
+        self.keys = ['48e4d31402d5a0bb72a3943002160fbb','01c18064ba2caa5c8162dd48e42e086f','3c7ef109b4b29235aa8132f969495234']
+
     def load_from_csv(self, path):
         return pd.read_csv(path)
 
@@ -57,3 +61,7 @@ class Utils:
         stoped = stopwords.words('spanish')
         content = [w for w in text if w.lower() not in stoped]
         return content
+
+    def confirmKey(self,value):
+        self.key = value
+        return self.key in self.keys

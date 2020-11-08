@@ -12,9 +12,12 @@ import csv
 
 app = Flask(__name__)
 
-# routes
+
 datosPR={}
 Uid='nonekey'
+key='none'
+
+# routes
 @app.route('/')
 def Index():
     return render_template('index.html')
@@ -33,7 +36,6 @@ def predict():
     alldata_data = alldata.values[:, 2]
     alldata_one = alldata.values[:, 1]
     alldata_one = alldata_one[0]
-    print(alldata_one)
     vectorizer = TfidfVectorizer()
     x_train = vectorizer.fit_transform(alldata_data)
     x_test = vectorizer.transform(['where is Obama'])
@@ -45,23 +47,17 @@ def api():
     utils = Utils()
     if request.method == 'POST':
         wordsU = request.form['words']
-
         Uid = request.form['Uid'] # datos de usuario
-        print(str(wordsU))
-        print(str(Uid))
-
-        # key = request.form['key']
-        print(utils.textData_cleaning(wordsU))
-        x_test = utils.vectorized_fiting('./in/ropa.csv',utils.textData_cleaning(wordsU))
-        prediction = model.predict(x_test)
-        datosPR[wordsU]=prediction[0] #aqui guardan las preguntas y respuestas
-        print(datosPR)
-        print(prediction[0])
-        
-        archivo = csv.writer(open('in/'+Uid+'.csv',"a", newline=''))#ab
-        archivo.writerow([wordsU,prediction[0]])
-
-        return jsonify({'prediccion': list(prediction)})
+        key = request.form['key']  
+        if utils.confirmKey(key) == True :
+            x_test = utils.vectorized_fiting('./in/ropa.csv',utils.textData_cleaning(wordsU))
+            prediction = model.predict(x_test)
+            datosPR[wordsU]=prediction[0] #aqui guardan las preguntas y respuestas
+            archivo = csv.writer(open('in/'+Uid+'.csv',"a", newline=''))#ab
+            archivo.writerow([wordsU,prediction[0]])
+            return jsonify({'prediccion': list(prediction)})
+        else:
+            return jsonify({'prediccion': 'debes tener una key de api valida'})
 
 # TODO Sebestian Cristian Jimmy ampliar los request para un post con mensajes
 if __name__ == "__main__":
