@@ -42,7 +42,7 @@ class Utils:
         porter = PorterStemmer()
         lancaster=LancasterStemmer()
         wordnet = WordNetLemmatizer()
-        spanish_stemmer = SnowballStemmer('spanish')
+        
 
         text=TweetTokenizer().tokenize(text)
         text=self.stopwords_cleaner(text)
@@ -50,7 +50,6 @@ class Utils:
         thematik=''
         for w in text:
             thematik=thematik+' '+w
-        #print(thematik)
         return thematik
         
     
