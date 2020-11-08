@@ -50,7 +50,7 @@ def api():
         alldata_data = alldata.values[:, 0]
         vectorizer = TfidfVectorizer()
         vectorizer.fit_transform(alldata_data)
-        x_test = vectorizer.transform([wordsU])
+        x_test = vectorizer.transform(['hola'])
         prediction = model.predict(x_test)
         return jsonify({'prediccion': list(prediction)})
 
