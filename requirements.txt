@@ -6,4 +6,4 @@ matplotlib
 scikit-learn
 seaborn
 flask
-nltk==3.4.5                    
+nltk==3.4.5

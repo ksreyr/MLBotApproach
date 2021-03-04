@@ -11,6 +11,12 @@ setTimeout(function() {
 
 element.click(openElement);
 
+$("#box").keyup(function (e) {
+    if (e.keyCode == 13) {
+      sendNewMessage();
+    }
+});
+
 function openElement() {
     var messages = element.find('.messages');
     var textInput = element.find('.text-box');
@@ -84,7 +90,7 @@ function sendNewMessage() {
     }, 250);
 
     var datos = new FormData();
-    
+
     datos.append('words', newMessage);
     datos.append('Uid', myStorage['chatID']);
     datos.append('key','48e4d31402d5a0bb72a3943002160fbb');
@@ -115,7 +121,7 @@ function sendNewMessage() {
       }).catch(error =>{
       console.log('Se ha encontrado un error en el archivo o web que se hace la peticion');
     })
-   
+
 }
 
 function onMetaAndEnter(event) {

@@ -46,7 +46,7 @@ class Utils:
         porter = PorterStemmer()
         lancaster=LancasterStemmer()
         wordnet = WordNetLemmatizer()
-        
+
 
         text=TweetTokenizer().tokenize(text)
         text=self.stopwords_cleaner(text)
@@ -55,8 +55,8 @@ class Utils:
         for w in text:
             thematik=thematik+' '+w
         return thematik
-        
-    
+
+
     def stopwords_cleaner(self,text):
         stoped = stopwords.words('spanish')
         content = [w for w in text if w.lower() not in stoped]
